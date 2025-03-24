@@ -9,4 +9,5 @@ body{
 }
 mark{
     background-color: aqua;
+    text-align: right;
 }
